@@ -1,0 +1,5 @@
+# u-irvan-motion-seventeen-syllables-of-debugging-d194b605
+
+[![make.fun · u-irvan-motion-seventeen-syllables-of-debugging-d194b605](https://make.fun/badge/u-irvan-motion-seventeen-syllables-of-debugging-d194b605.svg)](https://make.fun/bounty/u-irvan-motion-seventeen-syllables-of-debugging-d194b605?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-seventeen-syllables-of-debugging-d194b605)
+[![rank](https://make.fun/badge/u-irvan-motion-seventeen-syllables-of-debugging-d194b605/zhuifeng123/mf-b-301-u-irvan-motion-seventeen-syllables/rank.svg)](https://make.fun/bounty/u-irvan-motion-seventeen-syllables-of-debugging-d194b605/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-seventeen-syllables-of-debugging-d194b605)
+[![reward](https://make.fun/badge/u-irvan-motion-seventeen-syllables-of-debugging-d194b605/zhuifeng123/mf-b-301-u-irvan-motion-seventeen-syllables/reward.svg)](https://make.fun/bounty/u-irvan-motion-seventeen-syllables-of-debugging-d194b605?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-seventeen-syllables-of-debugging-d194b605)
